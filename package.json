@@ -74,7 +74,7 @@
   "dependencies": {
     "global": "^4.4.0",
     "request": "^2.88.2",
-    "video.js": "^7.2.0 || ^6.6.0"
+    "video.js": "^8.5.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
